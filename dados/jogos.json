@@ -1,0 +1,93 @@
+{
+"1": { "grupo": "A", "timeA": "🇲🇽 México", "timeB": "🇿🇦 África do Sul", "golsA": null, "golsB": null, "data": "11/06/2026 16:00 - Brasília", "local": "Cidade do México" },
+"2": { "grupo": "A", "timeA": "🇰🇷 Coreia do Sul", "timeB": "🇨🇿 República Tcheca", "golsA": null, "golsB": null, "data": "11/06/2026 23:00 - Brasília", "local": "Guadalajara" },
+
+"3": { "grupo": "B", "timeA": "🇨🇦 Canadá", "timeB": "🇧🇦 Bósnia e Herzegovina", "golsA": null, "golsB": null, "data": "12/06/2026 16:00 - Brasília", "local": "Toronto" },
+"4": { "grupo": "D", "timeA": "🇺🇸 Estados Unidos", "timeB": "🇵🇾 Paraguai", "golsA": null, "golsB": null, "data": "12/06/2026 22:00 - Brasília", "local": "Los Angeles" },
+
+"5": { "grupo": "B", "timeA": "🇶🇦 Catar", "timeB": "🇨🇭 Suíça", "golsA": null, "golsB": null, "data": "13/06/2026 16:00 - Brasília", "local": "Santa Clara" },
+"6": { "grupo": "C", "timeA": "🇧🇷 Brasil", "timeB": "🇲🇦 Marrocos", "golsA": null, "golsB": null, "data": "13/06/2026 19:00 - Brasília", "local": "Nova York/Nova Jersey" },
+"7": { "grupo": "C", "timeA": "🇭🇹 Haiti", "timeB": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia", "golsA": null, "golsB": null, "data": "13/06/2026 22:00 - Brasília", "local": "Boston" },
+"8": { "grupo": "D", "timeA": "🇦🇺 Austrália", "timeB": "🇹🇷 Turquia", "golsA": null, "golsB": null, "data": "14/06/2026 01:00 - Brasília", "local": "Vancouver" },
+
+"9": { "grupo": "E", "timeA": "🇩🇪 Alemanha", "timeB": "🇨🇼 Curaçau", "golsA": null, "golsB": null, "data": "14/06/2026 14:00 - Brasília", "local": "Houston" },
+"10": { "grupo": "E", "timeA": "🇨🇮 Costa do Marfim", "timeB": "🇪🇨 Equador", "golsA": null, "golsB": null, "data": "14/06/2026 20:00 - Brasília", "local": "Filadélfia" },
+"11": { "grupo": "F", "timeA": "🇳🇱 Holanda", "timeB": "🇯🇵 Japão", "golsA": null, "golsB": null, "data": "14/06/2026 17:00 - Brasília", "local": "Dallas" },
+"12": { "grupo": "F", "timeA": "🇸🇪 Suécia", "timeB": "🇹🇳 Tunísia", "golsA": null, "golsB": null, "data": "14/06/2026 23:00 - Brasília", "local": "Monterrey" },
+
+"13": { "grupo": "H", "timeA": "🇪🇸 Espanha", "timeB": "🇨🇻 Cabo Verde", "golsA": null, "golsB": null, "data": "15/06/2026 13:00 - Brasília", "local": "Atlanta" },
+"14": { "grupo": "H", "timeA": "🇸🇦 Arábia Saudita", "timeB": "🇺🇾 Uruguai", "golsA": null, "golsB": null, "data": "15/06/2026 19:00 - Brasília", "local": "Miami" },
+"15": { "grupo": "G", "timeA": "🇧🇪 Bélgica", "timeB": "🇪🇬 Egito", "golsA": null, "golsB": null, "data": "15/06/2026 16:00 - Brasília", "local": "Seattle" },
+"16": { "grupo": "G", "timeA": "🇮🇷 Irã", "timeB": "🇳🇿 Nova Zelândia", "golsA": null, "golsB": null, "data": "15/06/2026 22:00 - Brasília", "local": "Los Angeles" },
+
+"17": { "grupo": "J", "timeA": "🇦🇹 Áustria", "timeB": "🇯🇴 Jordânia", "golsA": null, "golsB": null, "data": "16/06/2026 01:00 - Brasília", "local": "Santa Clara" },
+"18": { "grupo": "I", "timeA": "🇫🇷 França", "timeB": "🇸🇳 Senegal", "golsA": null, "golsB": null, "data": "16/06/2026 16:00 - Brasília", "local": "Nova York/Nova Jersey" },
+"19": { "grupo": "I", "timeA": "🇮🇶 Iraque", "timeB": "🇳🇴 Noruega", "golsA": null, "golsB": null, "data": "16/06/2026 19:00 - Brasília", "local": "Boston" },
+"20": { "grupo": "J", "timeA": "🇦🇷 Argentina", "timeB": "🇩🇿 Argélia", "golsA": null, "golsB": null, "data": "16/06/2026 22:00 - Brasília", "local": "Kansas City" },
+
+"21": { "grupo": "K", "timeA": "🇵🇹 Portugal", "timeB": "🇨🇩 RD Congo", "golsA": null, "golsB": null, "data": "17/06/2026 14:00 - Brasília", "local": "Houston" },
+"22": { "grupo": "L", "timeA": "🇬🇧 Inglaterra", "timeB": "🇭🇷 Croácia", "golsA": null, "golsB": null, "data": "17/06/2026 17:00 - Brasília", "local": "Dallas" },
+"23": { "grupo": "L", "timeA": "🇬🇭 Gana", "timeB": "🇵🇦 Panamá", "golsA": null, "golsB": null, "data": "17/06/2026 20:00 - Brasília", "local": "Toronto" },
+"24": { "grupo": "K", "timeA": "🇺🇿 Uzbequistão", "timeB": "🇨🇴 Colômbia", "golsA": null, "golsB": null, "data": "17/06/2026 21:00 - Brasília", "local": "Cidade do México" },
+
+"25": { "grupo": "A", "timeA": "🇨🇿 República Tcheca", "timeB": "🇿🇦 África do Sul", "golsA": null, "golsB": null, "data": "18/06/2026 13:00 - Brasília", "local": "Atlanta" },
+"26": { "grupo": "B", "timeA": "🇨🇭 Suíça", "timeB": "🇧🇦 Bósnia e Herzegovina", "golsA": null, "golsB": null, "data": "18/06/2026 16:00 - Brasília", "local": "Los Angeles" },
+"27": { "grupo": "B", "timeA": "🇨🇦 Canadá", "timeB": "🇶🇦 Catar", "golsA": null, "golsB": null, "data": "18/06/2026 19:00 - Brasília", "local": "Vancouver" },
+"28": { "grupo": "A", "timeA": "🇲🇽 México", "timeB": "🇰🇷 Coreia do Sul", "golsA": null, "golsB": null, "data": "18/06/2026 22:00 - Brasília", "local": "Guadalajara" },
+
+"29": { "grupo": "D", "timeA": "🇹🇷 Turquia", "timeB": "🇵🇾 Paraguai", "golsA": null, "golsB": null, "data": "19/06/2026 00:00 - Brasília", "local": "Santa Clara" },
+"30": { "grupo": "D", "timeA": "🇺🇸 Estados Unidos", "timeB": "🇦🇺 Austrália", "golsA": null, "golsB": null, "data": "19/06/2026 16:00 - Brasília", "local": "Seattle" },
+"31": { "grupo": "C", "timeA": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia", "timeB": "🇲🇦 Marrocos", "golsA": null, "golsB": null, "data": "19/06/2026 19:00 - Brasília", "local": "Boston" },
+"32": { "grupo": "C", "timeA": "🇧🇷 Brasil", "timeB": "🇭🇹 Haiti", "golsA": null, "golsB": null, "data": "19/06/2026 21:30 - Brasília", "local": "Filadélfia" },
+
+"33": { "grupo": "F", "timeA": "🇹🇳 Tunísia", "timeB": "🇯🇵 Japão", "golsA": null, "golsB": null, "data": "20/06/2026 23:00 - Brasília", "local": "Monterrey" },
+"34": { "grupo": "F", "timeA": "🇳🇱 Holanda", "timeB": "🇸🇪 Suécia", "golsA": null, "golsB": null, "data": "20/06/2026 14:00 - Brasília", "local": "Houston" },
+"35": { "grupo": "E", "timeA": "🇩🇪 Alemanha", "timeB": "🇨🇮 Costa do Marfim", "golsA": null, "golsB": null, "data": "20/06/2026 17:00 - Brasília", "local": "Toronto" },
+"36": { "grupo": "E", "timeA": "🇪🇨 Equador", "timeB": "🇨🇼 Curaçau", "golsA": null, "golsB": null, "data": "20/06/2026 21:00 - Brasília", "local": "Kansas City" },
+
+"37": { "grupo": "H", "timeA": "🇪🇸 Espanha", "timeB": "🇸🇦 Arábia Saudita", "golsA": null, "golsB": null, "data": "21/06/2026 13:00 - Brasília", "local": "Atlanta" },
+"38": { "grupo": "G", "timeA": "🇧🇪 Bélgica", "timeB": "🇮🇷 Irã", "golsA": null, "golsB": null, "data": "21/06/2026 16:00 - Brasília", "local": "Los Angeles" },
+"39": { "grupo": "H", "timeA": "🇺🇾 Uruguai", "timeB": "🇨🇻 Cabo Verde", "golsA": null, "golsB": null, "data": "21/06/2026 19:00 - Brasília", "local": "Miami" },
+"40": { "grupo": "G", "timeA": "🇳🇿 Nova Zelândia", "timeB": "🇪🇬 Egito", "golsA": null, "golsB": null, "data": "21/06/2026 22:00 - Brasília", "local": "Vancouver" },
+
+"41": { "grupo": "J", "timeA": "🇦🇷 Argentina", "timeB": "🇦🇹 Áustria", "golsA": null, "golsB": null, "data": "22/06/2026 14:00 - Brasília", "local": "Dallas" },
+"42": { "grupo": "I", "timeA": "🇫🇷 França", "timeB": "🇮🇶 Iraque", "golsA": null, "golsB": null, "data": "22/06/2026 18:00 - Brasília", "local": "Filadélfia" },
+"43": { "grupo": "I", "timeA": "🇳🇴 Noruega", "timeB": "🇸🇳 Senegal", "golsA": null, "golsB": null, "data": "22/06/2026 21:00 - Brasília", "local": "Nova York/Nova Jersey" },
+"44": { "grupo": "J", "timeA": "🇯🇴 Jordânia", "timeB": "🇩🇿 Argélia", "golsA": null, "golsB": null, "data": "22/06/2026 00:00 - Brasília", "local": "Santa Clara" },
+
+"45": { "grupo": "K", "timeA": "🇵🇹 Portugal", "timeB": "🇺🇿 Uzbequistão", "golsA": null, "golsB": null, "data": "23/06/2026 14:00 - Brasília", "local": "Houston" },
+"46": { "grupo": "L", "timeA": "🇬🇧 Inglaterra", "timeB": "🇬🇭 Gana", "golsA": null, "golsB": null, "data": "23/06/2026 17:00 - Brasília", "local": "Boston" },
+"47": { "grupo": "L", "timeA": "🇵🇦 Panamá", "timeB": "🇭🇷 Croácia", "golsA": null, "golsB": null, "data": "23/06/2026 20:00 - Brasília", "local": "Toronto" },
+"48": { "grupo": "K", "timeA": "🇨🇴 Colômbia", "timeB": "🇨🇩 RD Congo", "golsA": null, "golsB": null, "data": "23/06/2026 23:00 - Brasília", "local": "Guadalajara" },
+
+"49": { "grupo": "B", "timeA": "🇨🇭 Suíça", "timeB": "🇨🇦 Canadá", "golsA": null, "golsB": null, "data": "24/06/2026 16:00 - Brasília", "local": "Vancouver" },
+"50": { "grupo": "B", "timeA": "🇧🇦 Bósnia e Herzegovina", "timeB": "🇶🇦 Catar", "golsA": null, "golsB": null, "data": "24/06/2026 16:00 - Brasília", "local": "Seattle" },
+"51": { "grupo": "C", "timeA": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia", "timeB": "🇧🇷 Brasil", "golsA": null, "golsB": null, "data": "24/06/2026 19:00 - Brasília", "local": "Miami" },
+"52": { "grupo": "C", "timeA": "🇲🇦 Marrocos", "timeB": "🇭🇹 Haiti", "golsA": null, "golsB": null, "data": "24/06/2026 19:00 - Brasília", "local": "Atlanta" },
+
+"53": { "grupo": "A", "timeA": "🇨🇿 República Tcheca", "timeB": "🇲🇽 México", "golsA": null, "golsB": null, "data": "24/06/2026 22:00 - Brasília", "local": "Cidade do México" },
+"54": { "grupo": "A", "timeA": "🇿🇦 África do Sul", "timeB": "🇰🇷 Coreia do Sul", "golsA": null, "golsB": null, "data": "24/06/2026 22:00 - Brasília", "local": "Monterrey" },
+
+"55": { "grupo": "E", "timeA": "🇪🇨 Equador", "timeB": "🇩🇪 Alemanha", "golsA": null, "golsB": null, "data": "25/06/2026 17:00 - Brasília", "local": "Nova York/Nova Jersey" },
+"56": { "grupo": "E", "timeA": "🇨🇼 Curaçau", "timeB": "🇨🇮 Costa do Marfim", "golsA": null, "golsB": null, "data": "25/06/2026 17:00 - Brasília", "local": "Filadélfia" },
+"57": { "grupo": "F", "timeA": "🇯🇵 Japão", "timeB": "🇸🇪 Suécia", "golsA": null, "golsB": null, "data": "25/06/2026 20:00 - Brasília", "local": "Dallas" },
+"58": { "grupo": "F", "timeA": "🇹🇳 Tunísia", "timeB": "🇳🇱 Holanda", "golsA": null, "golsB": null, "data": "25/06/2026 20:00 - Brasília", "local": "Kansas City" },
+"59": { "grupo": "D", "timeA": "🇹🇷 Turquia", "timeB": "🇺🇸 Estados Unidos", "golsA": null, "golsB": null, "data": "25/06/2026 23:00 - Brasília", "local": "Los Angeles" },
+"60": { "grupo": "D", "timeA": "🇵🇾 Paraguai", "timeB": "🇦🇺 Austrália", "golsA": null, "golsB": null, "data": "25/06/2026 23:00 - Brasília", "local": "Santa Clara" },
+
+"61": { "grupo": "I", "timeA": "🇳🇴 Noruega", "timeB": "🇫🇷 França", "golsA": null, "golsB": null, "data": "26/06/2026 16:00 - Brasília", "local": "Boston" },
+"62": { "grupo": "I", "timeA": "🇸🇳 Senegal", "timeB": "🇮🇶 Iraque", "golsA": null, "golsB": null, "data": "26/06/2026 16:00 - Brasília", "local": "Toronto" },
+"63": { "grupo": "H", "timeA": "🇨🇻 Cabo Verde", "timeB": "🇸🇦 Arábia Saudita", "golsA": null, "golsB": null, "data": "26/06/2026 21:00 - Brasília", "local": "Houston" },
+"64": { "grupo": "H", "timeA": "🇺🇾 Uruguai", "timeB": "🇪🇸 Espanha", "golsA": null, "golsB": null, "data": "26/06/2026 21:00 - Brasília", "local": "Guadalajara" },
+
+"65": { "grupo": "G", "timeA": "🇪🇬 Egito", "timeB": "🇮🇷 Irã", "golsA": null, "golsB": null, "data": "26/06/2026 00:00 - Brasília", "local": "Seattle" },
+"66": { "grupo": "G", "timeA": "🇳🇿 Nova Zelândia", "timeB": "🇧🇪 Bélgica", "golsA": null, "golsB": null, "data": "26/06/2026 00:00 - Brasília", "local": "Vancouver" },
+
+"67": { "grupo": "L", "timeA": "🇵🇦 Panamá", "timeB": "🇬🇧 Inglaterra", "golsA": null, "golsB": null, "data": "27/06/2026 18:00 - Brasília", "local": "Nova York/Nova Jersey" },
+"68": { "grupo": "L", "timeA": "🇭🇷 Croácia", "timeB": "🇬🇭 Gana", "golsA": null, "golsB": null, "data": "27/06/2026 18:00 - Brasília", "local": "Filadélfia" },
+"69": { "grupo": "K", "timeA": "🇨🇴 Colômbia", "timeB": "🇵🇹 Portugal", "golsA": null, "golsB": null, "data": "27/06/2026 20:30 - Brasília", "local": "Miami" },
+"70": { "grupo": "K", "timeA": "🇨🇩 RD Congo", "timeB": "🇺🇿 Uzbequistão", "golsA": null, "golsB": null, "data": "27/06/2026 20:30 - Brasília", "local": "Atlanta" },
+
+"71": { "grupo": "J", "timeA": "🇩🇿 Argélia", "timeB": "🇦🇹 Áustria", "golsA": null, "golsB": null, "data": "27/06/2026 23:00 - Brasília", "local": "Kansas City" },
+"72": { "grupo": "J", "timeA": "🇯🇴 Jordânia", "timeB": "🇦🇷 Argentina", "golsA": null, "golsB": null, "data": "27/06/2026 23:00 - Brasília", "local": "Dallas" }
+}
